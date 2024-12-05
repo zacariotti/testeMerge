@@ -1,3 +1,3 @@
 Linha 1: Este é o arquivo original.
-Linha 2: Esta é a linha que será alterada.
+Linha 2: Esta é a alteração feita no branch feature1.
 Linha 3: Esta linha permanece inalterada.
